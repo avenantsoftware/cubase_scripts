@@ -1,0 +1,1058 @@
+[cubase parse file]
+
+[parser version 0001]
+
+[comment]			created by PatchEdit
+
+
+[creators first name]	Ian
+
+[creators last name]	Rutherford
+
+[device manufacturer]	ASM
+
+[device name]		Hydrasynth
+
+[script name]		Hydrasynth
+
+[script version]	Version 1.00
+
+
+[define patchnames]
+
+[mode]	Voices
+
+[g1]		Bank A
+
+[p2,0,0,0] A001 Sawpressive GD
+[p2,1,0,0] A002 GX UltraPad PS 
+[p2,2,0,0] A003 Venus Pluck ET 
+[p2,3,0,0] A004 BladeTitles PS
+[p2,4,0,0] A005 Chow's Arp GD 
+[p2,5,0,0] A006 Doppler Bass MP 
+[p2,6,0,0] A007 Clean FM Pad MP
+[p2,7,0,0] A008 The Real Owl MF 
+[p2,8,0,0] A009 Cory's Lead GD 
+[p2,9,0,0] A010 Poly Risers MP 
+[p2,10,0,0] A011 Frantasia FP 
+[p2,11,0,0] A012 Beyond Bob SCD 
+[p2,12,0,0] A013 SpiralBallad PS 
+[p2,13,0,0] A014 FM Simple Bass 
+[p2,14,0,0] A015 Ribbon FX Arp MP
+[p2,15,0,0] A016 Etherpad RJ 
+[p2,16,0,0] A017 Hydra Drawbar RJ 
+[p2,17,0,0] A018 FLUXR   SOUP KFP 
+[p2,18,0,0] A019 Wavescan GD 
+[p2,19,0,0] A020 LHR-JFK-LAX 
+[p2,20,0,0] A021 NobleBell GD 
+[p2,21,0,0] A022 Altern8r FP 
+[p2,22,0,0] A023 GnarlyDude GD 
+[p2,23,0,0] A024 MAGESTIC STRGSdf 
+[p2,24,0,0] A025 Synthwave Bs DA 
+[p2,25,0,0] A026 FM Moues MP 
+[p2,26,0,0] A027 Press&Summon DA 
+[p2,27,0,0] A028 BladeBluesLd PS 
+[p2,28,0,0] A029 Damp Beat ET 
+[p2,29,0,0] A030 Chord Grooves MP 
+[p2,30,0,0] A031 Volf Palm GD 
+[p2,31,0,0] A032 Swarm Bass RJ 
+[p2,32,0,0] A033 St.Genviv FP 
+[p2,33,0,0] A034 Slide Circus ET 
+[p2,34,0,0] A035 Earthshine ET 
+[p2,35,0,0] A036 LoveArp SCD 
+[p2,36,0,0] A037 Cine Perc LoopMP 
+[p2,37,0,0] A038 Twilight ET 
+[p2,38,0,0] A039 FundaMental SCD
+[p2,39,0,0] A040 Ambisines FP 
+[p2,40,0,0] A041 FightBot KFP 
+[p2,41,0,0] A042 Midlight ET 
+[p2,42,0,0] A043 Tubular  FP 
+[p2,43,0,0] A044 Spectral FP 
+[p2,44,0,0] A045 World 1-2 MF 
+[p2,45,0,0] A046 Pew Pew Pew MF
+[p2,46,0,0] A047 Akhenaten MF
+[p2,47,0,0] A048 BPM Ramp Pad MP
+[p2,48,0,0] A049 Automata ET 
+[p2,49,0,0] A050 Ed Wood Calling 
+[p2,50,0,0] A051 Go Your Own Way
+[p2,51,0,0] A052 EazyPeZE KFP 
+[p2,52,0,0] A053 Hydra EP RJ 
+[p2,53,0,0] A054 Metal Worx DA 
+[p2,54,0,0] A055 RhythmArp PS 
+[p2,55,0,0] A056 Lunar Bender MF 
+[p2,56,0,0] A057 SDS Snare GD 
+[p2,57,0,0] A058 Vox Strings MP 
+[p2,58,0,0] A059 Techno Locker MP 
+[p2,59,0,0] A060 Fretless ET 
+[p2,60,0,0] A061 Temple Trap DA 
+[p2,61,0,0] A062 BowedPPG PS 
+[p2,62,0,0] A063 CycleOfThoughtMF 
+[p2,63,0,0] A064 PearlsOf Wisdom 
+[p2,64,0,0] A065 Mixologist GD 
+[p2,65,0,0] A066 BPM Fall Pad MP
+[p2,66,0,0] A067 Hyper8  KFP 
+[p2,67,0,0] A068 Monstah FP 
+[p2,68,0,0] A069 Nostromo GD 
+[p2,69,0,0] A070 OberMine GD 
+[p2,70,0,0] A071 Wave Hits SCD
+[p2,71,0,0] A072 GellPMP KFP 
+[p2,72,0,0] A073 Stereolab GD 
+[p2,73,0,0] A074 Duo Patterns MP 
+[p2,74,0,0] A075 Styx Chords MF 
+[p2,75,0,0] A076 TexanTurtles SCD 
+[p2,76,0,0] A077 Felt KFP 
+[p2,77,0,0] A078 AbbaAndI PS
+[p2,78,0,0] A079 Filth Rolls MP
+[p2,79,0,0] A080 Trancer MP
+[p2,80,0,0] A081 HitChords! SCD 
+[p2,81,0,0] A082 XTH RJ 
+[p2,82,0,0] A083 Wind King FP
+[p2,83,0,0] A084 LukesLazr PS 
+[p2,84,0,0] A085 Slow-esto SCD 
+[p2,85,0,0] A086 Caspian SCD 
+[p2,86,0,0] A087 Ribbon8bitGameRJ 
+[p2,87,0,0] A088 Simplicite MF 
+[p2,88,0,0] A089 Goodbyes MF 
+[p2,89,0,0] A090 SYNC GD 
+[p2,90,0,0] A091 Suitcase MP 
+[p2,91,0,0] A092 Trade   Some KFP 
+[p2,92,0,0] A093 Muted Glass Perc 
+[p2,93,0,0] A094 MACHNE WELCOMEdf 
+[p2,94,0,0] A095 Future Forest DA 
+[p2,95,0,0] A096 HeauenEleven PS 
+[p2,96,0,0] A097 2007 LDN Bass 
+[p2,97,0,0] A098 FracturedBloopMP 
+[p2,98,0,0] A099 The Cube FP 
+[p2,99,0,0] A100 Yuno GD 
+[p2,100,0,0] A101 VHS Dreams MP 
+[p2,101,0,0] A102 Nymphs MF 
+[p2,102,0,0] A103 MinionsLulliby
+[p2,103,0,0] A104 PWM-ASM GD 
+[p2,104,0,0] A105 Foster Growth 
+[p2,105,0,0] A106 CS BASS PS 
+[p2,106,0,0] A107 Krina tou Agrou 
+[p2,107,0,0] A108 Freezing TM 
+[p2,108,0,0] A109 Ohhh GD 
+[p2,109,0,0] A110 88 mph DA
+[p2,110,0,0] A111 2 Simple GD
+[p2,111,0,0] A112 ResoSpread PS
+[p2,112,0,0] A113 ReversOrgan ET 
+[p2,113,0,0] A114 InYoFace Bass PS 
+[p2,114,0,0] A115 Soda Fizz
+[p2,115,0,0] A116 StepFun BS 
+[p2,116,0,0] A117 BigSaws GD 
+[p2,117,0,0] A118 DirtClav KFP 
+[p2,118,0,0] A119 90124 SCD 
+[p2,119,0,0] A120 The Hi-Garden MF 
+[p2,120,0,0] A121 Venus Dawn RJ 
+[p2,121,0,0] A122 CompThatFunk PS 
+[p2,122,0,0] A123 NZ Funk Bass MP 
+[p2,123,0,0] A124 Play w  Jen KFP
+[p2,124,0,0] A125 Future PWM MP 
+[p2,125,0,0] A126 BUGS IN LOVE df 
+[p2,126,0,0] A127 Calies Lead GD 
+[p2,127,0,0] A128 FM Piano FP 
+[g1] Bank B
+[p2,0,0,1] B001 Na'vi River GD
+[p2,1,0,1] B002 The 3rd Wife MF
+[p2,2,0,1] B003 Broken Base TM
+[p2,3,0,1] B004 KeepItLow SCD
+[p2,4,0,1] B005 Reeds PS
+[p2,5,0,1] B006 Rust Piano TM
+[p2,6,0,1] B007 FM Percussion TM
+[p2,7,0,1] B008 Exit SCD
+[p2,8,0,1] B009 PPGChoir MW PS
+[p2,9,0,1] B010 DesiDrop GD
+[p2,10,0,1] B011 SawMiller BS
+[p2,11,0,1] B012 Harm0nMe KFP
+[p2,12,0,1] B013 Dragon Bass DA
+[p2,13,0,1] B014 Dictator DA
+[p2,14,0,1] B015 Moon=Mars SCD
+[p2,15,0,1] B016 Boards of CV TM
+[p2,16,0,1] B017 3am Somewhere
+[p2,17,0,1] B018 Modepluk FP
+[p2,18,0,1] B019 Lovedrive ET
+[p2,19,0,1] B020 WaveTrain BS
+[p2,20,0,1] B021 Alaska PS
+[p2,21,0,1] B022 Over TheFalls
+[p2,22,0,1] B023 Back to Bass
+[p2,23,0,1] B024 CheekyMorning MF
+[p2,24,0,1] B025 P5 num12 GD
+[p2,25,0,1] B026 Silent Cinema
+[p2,26,0,1] B027 Emotional TingDA
+[p2,27,0,1] B028 Formant Pluck ET
+[p2,28,0,1] B029 Grasslands
+[p2,29,0,1] B030 FLYLYKE df
+[p2,30,0,1] B031 Mr.Sinus BS
+[p2,31,0,1] B032 RoachRun GD
+[p2,32,0,1] B033 DeepBass GD
+[p2,33,0,1] B034 Phase Mountain 
+[p2,34,0,1] B035 Mr. Hazard MF
+[p2,35,0,1] B036 FractInversModMP
+[p2,36,0,1] B037 Cassini FP
+[p2,37,0,1] B038 Dusting KFP
+[p2,38,0,1] B039 Big Kick GD
+[p2,39,0,1] B040 Sparse Chaos MP
+[p2,40,0,1] B041 Rhythmize FP
+[p2,41,0,1] B042 Moments ET
+[p2,42,0,1] B043 Lotus ET
+[p2,43,0,1] B044 BeatPPL Bass KFP
+[p2,44,0,1] B045 Polymorph FP
+[p2,45,0,1] B046 TinFoilHat GD
+[p2,46,0,1] B047 Worldmallet FP
+[p2,47,0,1] B048 Androish KFP
+[p2,48,0,1] B049 SadDust KFP
+[p2,49,0,1] B050 Itchy Lead
+[p2,50,0,1] B051 Wave Scanner TM
+[p2,51,0,1] B052 Terpsichore PS
+[p2,52,0,1] B053 Swipe Bass RJ
+[p2,53,0,1] B054 Taper Pad MP
+[p2,54,0,1] B055 Lucid Dreamer MF
+[p2,55,0,1] B056 FindSoul KFP
+[p2,56,0,1] B057 Sunrise FP
+[p2,57,0,1] B058 Luna Zither MP
+[p2,58,0,1] B059 Constantine DA
+[p2,59,0,1] B060 Jupiter's Chd MP
+[p2,60,0,1] B061 Angry Analog RJ
+[p2,61,0,1] B062 SparklFairies PS
+[p2,62,0,1] B063 E=mc^2 MF
+[p2,63,0,1] B064 TripHit GD
+[p2,64,0,1]   B065 Cityscape RJ
+[p2,65,0,1]   B066 VHS Warbler JC
+[p2,66,0,1]   B067 AT Octaves MP
+[p2,67,0,1]   B068 VeloStack RJ
+[p2,68,0,1]   B069 Recordr PS
+[p2,69,0,1]   B070 SadLofi KFP
+[p2,70,0,1]   B071 Del3O2  KFP
+[p2,71,0,1]   B072 Gl'tc# Arp$
+[p2,72,0,1]   B073 Charon's Core MF
+[p2,73,0,1]   B074 Dyson GD
+[p2,74,0,1]   B075 Sproingg PS
+[p2,75,0,1]   B076 FM Tines df
+[p2,76,0,1]   B077 CSViolin PS
+[p2,77,0,1]   B078 Almost Analog MP
+[p2,78,0,1]   B079 FutRtude KFP
+[p2,79,0,1]   B080 Glottle Bass MP
+[p2,80,0,1]   B081 Basic Bass
+[p2,81,0,1]   B082 RIBBN DESCENT df
+[p2,82,0,1]   B083 Telekonesis RJ
+[p2,83,0,1]   B084 Carnation
+[p2,84,0,1]   B085 Table Pads MP
+[p2,85,0,1]   B086 RIGHTEOUS ORG df
+[p2,86,0,1]   B087 Robots Rev4 DA
+[p2,87,0,1]   B088 BetteDavis PS
+[p2,88,0,1]   B089 Elevate ET
+[p2,89,0,1]   B090 Angry Lowend TM
+[p2,90,0,1]   B091 Gulliver Pads DA
+[p2,91,0,1]   B092 Punjab
+[p2,92,0,1]   B093 Deep Space TM
+[p2,93,0,1]   B094 StumblingLayerMP
+[p2,94,0,1]   B095 WATER ANGELS df
+[p2,95,0,1]   B096 Galatea 1989 MF
+[p2,96,0,1]      B097 WaveLength SCD
+[p2,97,0,1]      B098 Rockin Roll TM
+[p2,98,0,1]      B099 Poor Me KFP
+[p2,99,0,1]      B100 Royal Pulses RJ
+[p2,100,0,1]      B101 Dandelion
+[p2,101,0,1]      B102 4VoiceMemoriesRJ
+[p2,102,0,1]      B103 FM Flight TM
+[p2,103,0,1]      B104 WideOpen SCD
+[p2,104,0,1]      B105 BAYCE! df
+[p2,105,0,1]      B106 Roadsy FP
+[p2,106,0,1]      B107 SundayDreamer MF
+[p2,107,0,1]      B108 Bumble ET
+[p2,108,0,1]      B109 Europa RJ
+[p2,109,0,1]      B110 GermanDelightSCD
+[p2,110,0,1]      B111 Typical SCD
+[p2,111,0,1]      B112 Cloudburst PS
+[p2,112,0,1]      B113 Pad 4 AllSeasons
+[p2,113,0,1]      B114 ChorlPressr PS
+[p2,114,0,1]      B115 Hydroborea SCD
+[p2,115,0,1]      B116 FM Slap Bass RJ
+[p2,116,0,1]      B117 SINE TIFIC df
+[p2,117,0,1]      B118 GospelToLord SCD
+[p2,118,0,1]      B119 WaveChop PS
+[p2,119,0,1]      B120 LUXIOUS  df
+[p2,120,0,1]      B121 Pandemic RJ
+[p2,121,0,1]      B122 Gamelan DJ SCD
+[p2,122,0,1]      B123 Metal Bed TM
+[p2,123,0,1]      B124 Mystery Theater
+[p2,124,0,1]      B125 Rewind Time RJ
+[p2,125,0,1]      B126 #ANLGSTRG
+[p2,126,0,1]      B127 Tronic Bass TM
+[p2,127,0,1]      B128 RoboOboe BS
+[g1] Bank C
+[p2,0,0,2] C001 BAHJA BS
+[p2,1,0,2] C002 Breathe! SCD
+[p2,2,0,2] C003 Fireplace SCD
+[p2,3,0,2] C004 Synth Beef BS
+[p2,4,0,2] C005 LongAgo... SCD
+[p2,5,0,2] C006 1010101
+[p2,6,0,2] C007 Tonewheel FP
+[p2,7,0,2] C008 Fan Fauorite
+[p2,8,0,2] C009 ALIEN   CELLO df
+[p2,9,0,2] C010 Big Snare MP
+[p2,10,0,2] C011 Typical SCD
+[p2,11,0,2] C012 FolkDance ofMars
+[p2,12,0,2] C013 Pluckverb DA
+[p2,13,0,2] C014 DRONER BS
+[p2,14,0,2] C015 Box O' Toyz RJ
+[p2,15,0,2] C016 JAZZ GTR+BASS df
+[p2,16,0,2] C017 StarBase225
+[p2,17,0,2] C018 BramAgema SCD
+[p2,18,0,2] C019 DirtyMono SCD
+[p2,19,0,2] C020 WetPlate SCD
+[p2,20,0,2] C021 Funkified ET
+[p2,21,0,2] C022 Slimtone ET
+[p2,22,0,2] C023 DxPiano GD
+[p2,23,0,2] C024 Choppy Seas JC
+[p2,24,0,2] C025 Elly redKFP
+[p2,25,0,2] C026 Crush On You MF
+[p2,26,0,2] C027 LostSpaceTapesJC
+[p2,27,0,2] C028 Seabed ET
+[p2,28,0,2] C029 90s Workstation
+[p2,29,0,2] C030 Nasty ET
+[p2,30,0,2] C031 Vox Shock MP
+[p2,31,0,2] C032 KerberosBells MF
+[p2,32,0,2] C033 AgroStep KFP
+[p2,33,0,2] C034 SpaceCave SCD
+[p2,34,0,2] C035 Deltr0n KFP
+[p2,35,0,2] C036 Liven ET
+[p2,36,0,2] C037 Hydraphonic TM
+[p2,37,0,2] C038 Chakra Keys RJ
+[p2,38,0,2] C039 BigDeuce KFP
+[p2,39,0,2] C040 PinPoint SCD
+[p2,40,0,2] C041 Glass Finger ET
+[p2,41,0,2] C042 NewMan GD
+[p2,42,0,2] C043 Bubble Vision RJ
+[p2,43,0,2] C044 P0CKY BS
+[p2,44,0,2] C045 BamBooz KFP
+[p2,45,0,2] C046 Lost In Leads
+[p2,46,0,2] C047 NegaFlux  KFP
+[p2,47,0,2] C048 StepzIn KFP
+[p2,48,0,2] C049 LFO Girls TM
+[p2,49,0,2] C050 Radiance 2055 MF
+[p2,50,0,2] C051 HydraTines PS
+[p2,51,0,2] C052 Tempt   KFP
+[p2,52,0,2] C053 Passing  KFP
+[p2,53,0,2] C054 NeuroPulse RJ
+[p2,54,0,2] C055 V0KASS  KFP
+[p2,55,0,2] C056 Ancient ForestJC
+[p2,56,0,2] C057 Ribbonvox FP
+[p2,57,0,2] C058 Super Puncher TM
+[p2,58,0,2] C059 Monofier ET
+[p2,59,0,2] C060 BabaORolley PS
+[p2,60,0,2] C061 Space Flight TM
+[p2,61,0,2] C062 Spindles RJ
+[p2,62,0,2] C063 RatchetPlay PS
+[p2,63,0,2] C064 Angst   KFP
+[p2,64,0,2] C065 Evil Lurks RJ
+[p2,65,0,2] C066 P0PPIN   KFP
+[p2,66,0,2] C067 94 Zap! RJ
+[p2,67,0,2] C068 ThickY  KiKY KFP
+[p2,68,0,2] C069 16-bit Church MF
+[p2,69,0,2] C070 Deceptin KFP
+[p2,70,0,2] C071 Jaunty Chapeau
+[p2,71,0,2] C072 Arcade FP
+[p2,72,0,2] C073 TXopolis BS
+[p2,73,0,2] C074 Organic Waste TM
+[p2,74,0,2] C075 Yeah Bass RJ
+[p2,75,0,2] C076 Mallet Hang RJ
+[p2,76,0,2] C077 BoutDat  KFP
+[p2,77,0,2] C078 Chopflip FP
+[p2,78,0,2] C079 Drenched KFP
+[p2,79,0,2] C080 AluminumBirds
+[p2,80,0,2] C081 AltTyme Pad BS
+[p2,81,0,2] C082 DeadGrey KFP
+[p2,82,0,2] C083 GoEAGLES KFP
+[p2,83,0,2] C084 GlitchZ PAD KFP
+[p2,84,0,2] C085 PressuRing PS
+[p2,85,0,2] C086 AxiAs
+[p2,86,0,2] C087 Dirty Machine TM
+[p2,87,0,2] C088 PianoWarp PS
+[p2,88,0,2] C089 Nyx Heights MF
+[p2,89,0,2] C090 Doc's Coin DA
+[p2,90,0,2] C091 Bangkok PS
+[p2,91,0,2] C092 Wheelie Ring DA
+[p2,92,0,2] C093 4gotten Lands MF
+[p2,93,0,2] C094 Nuthras Keys KFP
+[p2,94,0,2] C095 Here In My FP
+[p2,95,0,2] C096 CREEPER JC
+[p2,96,0,2] C097 Glasshouse RJ
+[p2,97,0,2] C098 Swela   KFP
+[p2,98,0,2] C099 SimplerTines
+[p2,99,0,2] C100 Car+Strong 3 BS
+[p2,100,0,2] C101 NextFrontier SCD
+[p2,101,0,2] C102 Moonlighter ET
+[p2,102,0,2] C103 UnterVerld 1Fing
+[p2,103,0,2] C104 Rocket Boy TM
+[p2,104,0,2] C105 GoAhedN Shred PS
+[p2,105,0,2] C106 ArpSwirl PS
+[p2,106,0,2] C107 RingMod Organ TM
+[p2,107,0,2] C108 Bustin' Good MF
+[p2,108,0,2] C109 Moon Landing DA
+[p2,109,0,2] C110 Crispus BS
+[p2,110,0,2] C111 Washed Organ TM
+[p2,111,0,2] C112 PastMe  KFP
+[p2,112,0,2] C113 Synphony FP
+[p2,113,0,2] C114 L0M3 BS
+[p2,114,0,2] C115 Memories ET
+[p2,115,0,2] C116 Cybrdyne
+[p2,116,0,2] C117 Sub Roads SCD
+[p2,117,0,2] C118 RibbonPiano PS
+[p2,118,0,2] C119 8 Bit Bee TM
+[p2,119,0,2] C120 DreamOutLoud SCD
+[p2,120,0,2] C121 From NowKFP
+[p2,121,0,2] C122 LifeB4Yr Eyes df
+[p2,122,0,2] C123 MeaNe    KFP
+[p2,123,0,2] C124 Throaty Vox PS
+[p2,124,0,2] C125 PIPE ORG df
+[p2,125,0,2] C126 Fire Ender SCD
+[p2,126,0,2] C127 ELSA BS
+[p2,127,0,2] C128 Eff Emm COMP df
+[g1] Bank D
+[p2,0,0,3] D000 Neural  Scan
+[p2,1,0,3] D001 Phaezra
+[p2,2,0,3] D002 FairVoice
+[p2,3,0,3] D003 Panners
+[p2,4,0,3] D004 Xpander Bass
+[p2,5,0,3] D005 Synclavier Dive
+[p2,6,0,3] D006 Hydra Analog Bas
+[p2,7,0,3] D007 Romantix 88
+[p2,8,0,3] D008 FM Arp
+[p2,9,0,3] D009 Neon City
+[p2,10,0,3] D010 Purest Feeling
+[p2,11,0,3] D011 Lifeforms
+[p2,12,0,3] D012 Zone of Twilight
+[p2,13,0,3] D013 AtmoString
+[p2,14,0,3] D014 Rave Talker
+[p2,15,0,3] D015 OB Brazzer
+[p2,16,0,3] D016 Nordic Strings
+[p2,17,0,3] D017 Computer Worlds
+[p2,18,0,3] D018 Woofy VA Bass
+[p2,19,0,3] D019 Pleasure Dome
+[p2,20,0,3] D020 Mart's PPG
+[p2,21,0,3] D021 Xpander SloStrng
+[p2,22,0,3] D022 Synclavier Bass
+[p2,23,0,3] D023 Jukno 60 ARP
+[p2,24,0,3] D024 Ulrich's
+[p2,25,0,3] D025 Nemo Studio
+[p2,26,0,3] D026 Notchy Stringer
+[p2,27,0,3] D027 Digi Wave Bass
+[p2,28,0,3] D028 PWM Poly 106 Pad
+[p2,29,0,3] D029 Kirk & Mal 60
+[p2,30,0,3] D030 Hit the G Bass
+[p2,31,0,3] D031 Synthetic Vowel
+[p2,32,0,3] D032 Hydra Pulse Clav
+[p2,33,0,3] D033 Euro Piano Organ
+[p2,34,0,3] D034 OB-X
+[p2,35,0,3] D035 Comp This!
+[p2,36,0,3] D036 Stories Of Old
+[p2,37,0,3] D037 Talking Metal
+[p2,38,0,3] D038 OB-X Brass Stab
+[p2,39,0,3] D039 Video Igra
+[p2,40,0,3] D040 OB Rez Sweep
+[p2,41,0,3] D041 Bamboo ChopStix
+[p2,42,0,3] D042 UK 88 ChordMemry
+[p2,43,0,3] D043 Watery Pond
+[p2,44,0,3] D044 Brash Bass
+[p2,45,0,3] D045 NASA
+[p2,46,0,3] D046 Kraftwerkian
+[p2,47,0,3] D047 Synclavier Kalmb
+[p2,48,0,3] D048 Helium
+[p2,49,0,3] D049 Oranic Harmonic
+[p2,50,0,3] D050 JP8 PWM Soft
+[p2,51,0,3] D051 Synclavier Bell
+[p2,52,0,3] D052 Dialtone Arp
+[p2,53,0,3] D053 Black Celebraton
+[p2,54,0,3] D054 Flyover
+[p2,55,0,3] D055 Cronenberg Organ
+[p2,56,0,3] D056 JP8 ARP
+[p2,57,0,3] D057 FM Bass
+[p2,58,0,3] D058 DX EP
+[p2,59,0,3] D059 Riverbed
+[p2,60,0,3] D060 Crystal Palace
+[p2,61,0,3] D061 PPG Bass & Keys
+[p2,62,0,3] D062 Astral Float
+[p2,63,0,3] D063 Akashic Gates
+[p2,64,0,3] D064 Lurker
+[p2,65,0,3] D065 Belief Bass
+[p2,66,0,3] D066 Digital EthnoLed
+[p2,67,0,3] D067 Duracel Modular
+[p2,68,0,3] D068 Oral Exam
+[p2,69,0,3] D069 Rhytmus Samplus
+[p2,70,0,3] D070 Nice Mover
+[p2,71,0,3] D071 Forever PadStrng.patch
+[p2,72,0,3] D072 Cave Man
+[p2,73,0,3] D073 TV Show
+[p2,74,0,3] D074 Deep UniBass
+[p2,75,0,3] D075 Friendly Arp
+[p2,76,0,3] D076 Builder Race
+[p2,77,0,3] D077 P5 Hello HardSnc
+[p2,78,0,3] D078 Harpsitone
+[p2,79,0,3] D079 Electrik Gitargh
+[p2,80,0,3] D080 Trancer Arp
+[p2,81,0,3] D081 Arco Pet Shop
+[p2,82,0,3] D082 Slow Pad
+[p2,83,0,3] D083 The Running Man
+[p2,84,0,3] D084 Gentle Rods
+[p2,85,0,3] D085 DCO Poly Pad
+[p2,86,0,3] D086 Woody Tines
+[p2,87,0,3] D087 Whispers
+[p2,88,0,3] D088 Sunrise FM
+[p2,89,0,3] D089 Synclav Organ
+[p2,90,0,3] D090 80's Bass
+[p2,91,0,3] D091 Shaarrrp
+[p2,92,0,3] D092 Ice Haus
+[p2,93,0,3] D093 Magnetic Equinox
+[p2,94,0,3] D094 Alpha Keys
+[p2,95,0,3] D095 Breaded Butter
+[p2,96,0,3] D096 Sync Risky Biz
+[p2,97,0,3] D097 Glassy Fifths
+[p2,98,0,3] D098 Brass Bars
+[p2,99,0,3] D099 Moag Bass
+[p2,100,0,3] D100 Cutting Dbl Stab
+[p2,101,0,3] D101 Forrests
+[p2,102,0,3] D102 WaveSweep
+[p2,103,0,3] D103 Bird on a Wire
+[p2,104,0,3] D104 Mouth Area Lead
+[p2,105,0,3] D105 Rubbing Glass
+[p2,106,0,3] D106 Os Bass
+[p2,107,0,3] D107 Compass Point
+[p2,108,0,3] D108 Double Impact
+[p2,109,0,3] D109 Christmas Island
+[p2,110,0,3] D110 Shar Bass
+[p2,111,0,3] D111 Sizzler
+[p2,112,0,3] D112 DCO Chord Arp
+[p2,113,0,3] D113 Spreader
+[p2,114,0,3] D114 OB Keys
+[p2,115,0,3] D115 Sound Designer
+[p2,116,0,3] D116 Deep Diver
+[p2,117,0,3] D117 File Under X
+[p2,118,0,3] D118 Noisy Gallop
+[p2,119,0,3] D119 DigiClav
+[p2,120,0,3] D120 Akordian
+[p2,121,0,3] D121 Sub Mission
+[p2,122,0,3] D122 Steel Keys
+[p2,123,0,3] D123 Bad Dream Orchs
+[p2,124,0,3] D124 DX Pad
+[p2,125,0,3] D125 Ugly Bass Arp
+[p2,126,0,3] D126 Gated Vox
+[p2,127,0,3] D127 Patches byINHALT
+[g1] Bank E
+[p2,0,0,4] E000 Northern Heat RA
+[p2,1,0,4] E001 Nordlandsbane RA
+[p2,2,0,4] E002 Polar Diva    RA
+[p2,3,0,4] E003 M12 Xylo Pad  RA
+[p2,4,0,4] E004 E-mu Orchasm  RA
+[p2,5,0,4] E005 VCO Polydream RA
+[p2,6,0,4] E006 Dewey Dawn    RA
+[p2,7,0,4] E007 Forever Young RA
+[p2,8,0,4] E008 Alpine Strngs RA
+[p2,9,0,4] E009 Glocken Tams  RA
+[p2,10,0,4] E010 M12 WinterSun RA
+[p2,11,0,4] E011 OB DX Cello   RA
+[p2,12,0,4] E012 Bear Island   RA
+[p2,13,0,4] E013 AtlanticRealm RA
+[p2,14,0,4] E014 Bit99 Slowpad RA
+[p2,15,0,4] E015 Stereo Poly6  RA
+[p2,16,0,4] E016 Vinterpiano   RA
+[p2,17,0,4] E017 Alpine Split  RA
+[p2,18,0,4] E018 Jutulhogg     RA
+[p2,19,0,4] E019 Space Days    RA
+[p2,20,0,4] E020 Squear Bass   RA
+[p2,21,0,4] E021 Poly6 UnisBas RA
+[p2,22,0,4] E022 2600 Bass Rez RA
+[p2,23,0,4] E023 Basto Ferry RA
+[p2,24,0,4] E024 Hybridene   RA
+[p2,25,0,4] E025 Vaarpiano     RA
+[p2,26,0,4] E026 Bit99 Sweep   RA
+[p2,27,0,4] E027 ASM-101 Bass  RA
+[p2,28,0,4] E028 Spider Dust RA
+[p2,29,0,4] E029 Summer Bass RA
+[p2,30,0,4] E030 Delay Line    RA
+[p2,31,0,4] E031 Bit of cold RA
+[p2,32,0,4] E032 Lazer Harp    RA
+[p2,33,0,4] E033 2600 Rings    RA
+[p2,34,0,4] E034 OB PWMclassic RA
+[p2,35,0,4] E035 Old Prophet   RA
+[p2,36,0,4] E036 Bit99 Resopad RA
+[p2,37,0,4] E037 Poly Evolved  RA
+[p2,38,0,4] E038 Aqua Vita     RA
+[p2,39,0,4] E039 Poly6 Seaflur RA
+[p2,40,0,4] E040 Prophet Bells RA
+[p2,41,0,4] E041 Prophet Tines RA
+[p2,42,0,4] E042 Below       RA
+[p2,43,0,4] E043 OB Bandpad    RA
+[p2,44,0,4] E044 OB UnisonBand RA
+[p2,45,0,4] E045 OB 99 Ballons RA
+[p2,46,0,4] E046 SynthX RingMd RA
+[p2,47,0,4] E047 M12 Layers    RA
+[p2,48,0,4] E048 JX Pulse Pad  RA
+[p2,49,0,4] E049 Mare Nubium   RA
+[p2,50,0,4] E050 JX Slaw       RA
+[p2,51,0,4] E051 SH Reso Bass  RA
+[p2,52,0,4] E052 SH Resequence RA
+[p2,53,0,4] E053 Plastic Pearl RA
+[p2,54,0,4] E054 MurmanskStringRA
+[p2,55,0,4] E055 OB IntroSound RA
+[p2,56,0,4] E056 Tirpitz     RA
+[p2,57,0,4] E057 Arp Afternoon RA
+[p2,58,0,4] E058 OB SAW        RA
+[p2,59,0,4] E059 Pseiko DS-310 RA
+[p2,60,0,4] E060 M12 SoftStrng RA
+[p2,61,0,4] E061 Poly6 Sub Arp RA
+[p2,62,0,4] E062 Snow Cave     RA
+[p2,63,0,4] E063 Snowflower    RA
+[p2,64,0,4] E064 Art Deco    RA
+[p2,65,0,4] E065 Noisy Poly6   RA
+[p2,66,0,4] E066 Bit99 Saw     RA
+[p2,67,0,4] E067 Bit99 Ephemra RA
+[p2,68,0,4] E068 Analog Women  RA
+[p2,69,0,4] E069 Analog Men    RA
+[p2,70,0,4] E070 Bit99 Bass    RA
+[p2,71,0,4] E071 Haltenbank    RA
+[p2,72,0,4] E072 Atlas         RA
+[p2,73,0,4] E073 Lunar Wind    RA
+[p2,74,0,4] E074 Greener Left  RA
+[p2,75,0,4] E075 Greener Right RA
+[p2,76,0,4] E076 Cosmosynth    RA
+[p2,77,0,4] E077 LassooMrsLuna RA
+[p2,78,0,4] E078 OB Saw Pulse  RA
+[p2,79,0,4] E079 JX Pulsewarm  RA
+[p2,80,0,4] E080 Autumn '86  RA
+[p2,81,0,4] E081 StringsForSki RA
+[p2,82,0,4] E082 Half Moon     RA
+[p2,83,0,4] E083 Air Vent      RA
+[p2,84,0,4] E084 Barentsburg   RA
+[p2,85,0,4] E085 Blizzard      RA
+[p2,86,0,4] E086 Winterfilter  RA
+[p2,87,0,4] E087 Mountain Birk RA
+[p2,88,0,4] E088 Suartisen     RA
+[p2,89,0,4] E089 Dolce Vita    RA
+[p2,90,0,4] E090 Mouge Piano   RA
+[p2,91,0,4] E091 Mouge Police  RA
+[p2,92,0,4] E092 JP-IV         RA
+[p2,93,0,4] E093 Hoesten       RA
+[p2,94,0,4] E094 Celestial OB  RA
+[p2,95,0,4] E095 Soft Strings  RA
+[p2,96,0,4] E096 Reso Pad      RA
+[p2,97,0,4] E097 Three Sisters RA
+[p2,98,0,4] E098 Irlande       RA
+[p2,99,0,4] E099 Leutenhaven   RA
+[p2,100,0,4] E100 Bit99pulsesaw RA
+[p2,101,0,4] E101 OB PWM        RA
+[p2,102,0,4] E102 Lunar Choir   RA
+[p2,103,0,4] E103 IcefjordSweep RA
+[p2,104,0,4] E104 Poly6 Pad     RA
+[p2,105,0,4] E105 Poly6 Strings RA
+[p2,106,0,4] E106 Bass-Ace    RA
+[p2,107,0,4] E107 OB Poly PWM   RA
+[p2,108,0,4] E108 Bob Bass      RA
+[p2,109,0,4] E109 Pulse         RA
+[p2,110,0,4] E110 Slap Cod      RA
+[p2,111,0,4] E111 Seastrings    RA
+[p2,112,0,4] E112 Glittertind   RA
+[p2,113,0,4] E113 Berlevaag     RA
+[p2,114,0,4] E114 SouthernBreez RA
+[p2,115,0,4] E115 Liquid E-mu   RA
+[p2,116,0,4] E116 Electroangels RA
+[p2,117,0,4] E117 VCO OctaveSaw RA
+[p2,118,0,4] E118 PhasingModwhl RA
+[p2,119,0,4] E119 Emax Passage  RA
+[p2,120,0,4] E120 L`apocalypse  RA
+[p2,121,0,4] E121 Icicles       RA
+[p2,122,0,4] E122 SilverminePad RA
+[p2,123,0,4] E123 Lo-fi sweep   RA
+[p2,124,0,4] E124 Saw Door      RA
+[p2,125,0,4] E125 Sub Tempest
+[p2,126,0,4] E126 Reverb Spring RA
+[p2,127,0,4] E127 Patches by RA
+[g1] Bank F		
+[p2, 0, 0, 5]	Van Halen 	
+[p2, 1, 0, 5]	Van Halen 2 	
+[p2, 2, 0, 5]	Vangelis 	
+[p2, 3, 0, 5]	Brass 	
+[p2, 4, 0, 5]	Glass Pad RD 	
+[p2, 5, 0, 5]	Litter Bass RD 	
+[p2, 6, 0, 5]	Reflector RD 	
+[p2, 7, 0, 5]	R2D2 Talk RD 	
+[p2, 8, 0, 5]	StoryTime RD 	
+[p2, 9, 0, 5]	AlterArp RD 	
+[p2, 10, 0, 5]	Drum Seq RD 	
+[p2, 11, 0, 5]	Polynomial RD 	
+[p2, 12, 0, 5]	Click Bass RD 	
+[p2, 13, 0, 5]	Math Pad RD 	
+[p2, 14, 0, 5]	Evolving Pad RD 	
+[p2, 15, 0, 5]	Drag & Roll RD 	
+[p2, 16, 0, 5]	Wiggle Worm RD 	
+[p2, 17, 0, 5]	DelicateDanceRD 	
+[p2, 18, 0, 5]	Sync Scatter RD 	
+[p2, 19, 0, 5]	Texture Poly RD 	
+[p2, 20, 0, 5]	1973 RD 	
+[p2, 21, 0, 5]	Droplet Pad RD 	
+[p2, 22, 0, 5]	MartianLandinRD 	
+[p2, 23, 0, 5]	Geomtry Pad RD 	
+[p2, 24, 0, 5]	Ripple Decay RD 	
+[p2, 25, 0, 5]	Helicopters RD 	
+[p2, 26, 0, 5]	BeatEnvelopesRD 	
+[p2, 27, 0, 5]	Particle Pad RD 	
+[p2, 28, 0, 5]	Tom Drums RD 	
+[p2, 29, 0, 5]	Magic Key RD 	
+[p2, 30, 0, 5]	SuperSync RD 	
+[p2, 31, 0, 5]	Up In Clouds RD 	
+[p2, 32, 0, 5]	Soft Ghosts RD 	
+[p2, 33, 0, 5]	StairWays RD 	
+[p2, 34, 0, 5]	Trap Lead RD 	
+[p2, 35, 0, 5]	CrissCross RD 	
+[p2, 36, 0, 5]	Micro Macro RD 	
+[p2, 37, 0, 5]	Chord Play RD 	
+[p2, 38, 0, 5]	GlassPoly RD 	
+[p2, 39, 0, 5]	Glider RD 	
+[p2, 40, 0, 5]	Smoke Trails RD 	
+[p2, 41, 0, 5]	Modular Pod RD 	
+[p2, 42, 0, 5]	Mellow MeadowRD 	
+[p2, 43, 0, 5]	Rich Chords RD 	
+[p2, 44, 0, 5]	Smooth Pad RD 	
+[p2, 45, 0, 5]	Arpy Lead RD 	
+[p2, 46, 0, 5]	Night Skys RD 	
+[p2, 47, 0, 5]	Compute This RD 	
+[p2, 48, 0, 5]	Dark Blood RD 	
+[p2, 49, 0, 5]	At Dark RD 	
+[p2, 50, 0, 5]	Tight StringsRD 	
+[p2, 51, 0, 5]	Enchanted RD 	
+[p2, 52, 0, 5]	Mesh Bass RD 	
+[p2, 53, 0, 5]	SFX-Rise RD 	
+[p2, 54, 0, 5]	808 State RD 	
+[p2, 55, 0, 5]	HeavyHitter RD 	
+[p2, 56, 0, 5]	Evening LightRD 	
+[p2, 57, 0, 5]	Spears RD 	
+[p2, 58, 0, 5]	Sparce Lead RD 	
+[p2, 59, 0, 5]	Moving Along RD 	
+[p2, 60, 0, 5]	Bow Glass RD 	
+[p2, 61, 0, 5]	Time & Place RD 	
+[p2, 62, 0, 5]	Sync N Sync RD 	
+[p2, 63, 0, 5]	Weeby Pads RD 	
+[p2, 64, 0, 5]	Winter Pad RD 	
+[p2, 65, 0, 5]	Piano Amber RD 	
+[p2, 66, 0, 5]	Boxed Arp RD 	
+[p2, 67, 0, 5]	Bleepy Lead RD 	
+[p2, 68, 0, 5]	Mods Bass RD 	
+[p2, 69, 0, 5]	Lead Spacer RD 	
+[p2, 70, 0, 5]	Deep Drone RD 	
+[p2, 71, 0, 5]	Brick Bass RD 	
+[p2, 72, 0, 5]	Metal Mod RD 	
+[p2, 73, 0, 5]	Sky Fly RD 	
+[p2, 74, 0, 5]	Slow Glide RD 	
+[p2, 75, 0, 5]	Chord Heaven RD 	
+[p2, 76, 0, 5]	Royal Arp RD 	
+[p2, 77, 0, 5]	Pearl Drops RD 	
+[p2, 78, 0, 5]	SpinningPulseRD 	
+[p2, 79, 0, 5]	ShootingStar RD 	
+[p2, 80, 0, 5]	Swamp Pad RD 	
+[p2, 81, 0, 5]	AfterGlow RD 	
+[p2, 82, 0, 5]	EventHorizen RD 	
+[p2, 83, 0, 5]	Old Film RD 	
+[p2, 84, 0, 5]	Hexagon Sun RD 	
+[p2, 85, 0, 5]	HarmonySwarm RD 	
+[p2, 86, 0, 5]	Dub Techno RD 	
+[p2, 87, 0, 5]	Fushia RD 	
+[p2, 88, 0, 5]	Sputter Pad RD 	
+[p2, 89, 0, 5]	Hold & Pulse RD 	
+[p2, 90, 0, 5]	Aurora RD 	
+[p2, 91, 0, 5]	Ratchet Beat RD 	
+[p2, 92, 0, 5]	Ring Arp RD 	
+[p2, 93, 0, 5]	Epic Bass RD 	
+[p2, 94, 0, 5]	5ths Seqence RD 	
+[p2, 95, 0, 5]	Spin Cycles RD 	
+[p2, 96, 0, 5]	Spike Bass RD 	
+[p2, 97, 0, 5]	Enchant RD 	
+[p2, 98, 0, 5]	Spash Effect RD 	
+[p2, 99, 0, 5]	Pine Lead RD 	
+[p2, 100, 0, 5]	Fabrics RD 	
+[p2, 101, 0, 5]	Cross Mods RD 	
+[p2, 102, 0, 5]	Scrabble RD 	
+[p2, 103, 0, 5]	Mod-Matrix RD 	
+[p2, 104, 0, 5]	Mod Drums RD 	
+[p2, 105, 0, 5]	Techre Splat RD 	
+[p2, 106, 0, 5]	Abstracts RD 	
+[p2, 107, 0, 5]	Modular Lava RD 	
+[p2, 108, 0, 5]	Planet Zion RD 	
+[p2, 109, 0, 5]	Alien Shift RD 	
+[p2, 110, 0, 5]	Spreader RD 	
+[p2, 111, 0, 5]	Morning Sun RD 	
+[p2, 112, 0, 5]	Whale Pad RD 	
+[p2, 113, 0, 5]	Noodle Space RD 	
+[p2, 114, 0, 5]	In The Clear RD 	
+[p2, 115, 0, 5]	Analog Perc RD 	
+[p2, 116, 0, 5]	Nasal Bass RD 	
+[p2, 117, 0, 5]	Mecury Piano RD 	
+[p2, 118, 0, 5]	Poly Dream RD 	
+[p2, 119, 0, 5]	Aerial RD 	
+[p2, 120, 0, 5]	Crystalline RD 	
+[p2, 121, 0, 5]	Elektra Pad RD 	
+[p2, 122, 0, 5]	H20 Pad RD 	
+[p2, 123, 0, 5]	Saw Cutter RD 	
+[p2, 124, 0, 5]	River Run RD 	
+[p2, 125, 0, 5]	Thinking RD 	
+[p2, 126, 0, 5]	Creep Up BassRD 	
+[p2, 127, 0, 5]	Sine Piano R 	
+[g1] Bank G		
+[p2, 0, 0, 6]	Storm Pad KA 	
+[p2, 1, 0, 6]	CS Strings KA 	
+[p2, 2, 0, 6]	Warm Pad KA 	
+[p2, 3, 0, 6]	Analog Bell KA 	
+[p2, 4, 0, 6]	Morph Lead KA 	
+[p2, 5, 0, 6]	Reverse Pad KA 	
+[p2, 6, 0, 6]	SkyFy Pad KA 	
+[p2, 7, 0, 6]	Cloud Pad KA 	
+[p2, 8, 0, 6]	Phat Morph KA 	
+[p2, 9, 0, 6]	Delay Lead KA 	
+[p2, 10, 0, 6]	Spinners KA 	
+[p2, 11, 0, 6]	Bagpipe KA 	
+[p2, 12, 0, 6]	SynthBass 1 KA 	
+[p2, 13, 0, 6]	SynthBass 2 KA 	
+[p2, 14, 0, 6]	SynthBass 3 KA 	
+[p2, 15, 0, 6]	SynthBass 4 KA 	
+[p2, 16, 0, 6]	Analog Sweep KA 	
+[p2, 17, 0, 6]	Karplus KA 	
+[p2, 18, 0, 6]	KApro Pad KA 	
+[p2, 19, 0, 6]	Human Pad KA 	
+[p2, 20, 0, 6]	Motion Pad KA 	
+[p2, 21, 0, 6]	Hold On KA 	
+[p2, 22, 0, 6]	Ambi Growl KA 	
+[p2, 23, 0, 6]	Passport KA 	
+[p2, 24, 0, 6]	Brassy KA 	
+[p2, 25, 0, 6]	Warm Obey KA 	
+[p2, 26, 0, 6]	Sawyer Lead KA 	
+[p2, 27, 0, 6]	Let's Go KA 	
+[p2, 28, 0, 6]	Sweet Dreams KA 	
+[p2, 29, 0, 6]	Fat Bass KA 	
+[p2, 30, 0, 6]	Sad Slow KA 	
+[p2, 31, 0, 6]	Wobbles KA 	
+[p2, 32, 0, 6]	Funky Lead KA 	
+[p2, 33, 0, 6]	Modular FX KA 	
+[p2, 34, 0, 6]	Slow Drone KA 	
+[p2, 35, 0, 6]	Big Pad KA 	
+[p2, 36, 0, 6]	Calming KA 	
+[p2, 37, 0, 6]	Scan Pad KA 	
+[p2, 38, 0, 6]	KA Phase Pad KA 	
+[p2, 39, 0, 6]	Warm SAW KA 	
+[p2, 40, 0, 6]	Toy Room KA 	
+[p2, 41, 0, 6]	Dancing ARP KA 	
+[p2, 42, 0, 6]	Noise Bliss KA 	
+[p2, 43, 0, 6]	Retrigger KA 	
+[p2, 44, 0, 6]	Chaossss KA 	
+[p2, 45, 0, 6]	The Sign KA 	
+[p2, 46, 0, 6]	Rock On KA 	
+[p2, 47, 0, 6]	Locked Out 1 KA 	
+[p2, 48, 0, 6]	Locked Out 2 KA 	
+[p2, 49, 0, 6]	Slow Pad 1 KA 	
+[p2, 50, 0, 6]	Slow Pad 2 KA 	
+[p2, 51, 0, 6]	Punch Bass KA 	
+[p2, 52, 0, 6]	Shimmer KA 	
+[p2, 53, 0, 6]	Digilog KA 	
+[p2, 54, 0, 6]	Waverider KA 	
+[p2, 55, 0, 6]	Cathedral KA 	
+[p2, 56, 0, 6]	Humble Keys KA 	
+[p2, 57, 0, 6]	Soft Pad KA 	
+[p2, 58, 0, 6]	Ambiedream KA 	
+[p2, 59, 0, 6]	Distortian KA 	
+[p2, 60, 0, 6]	Polysynth 1 KA 	
+[p2, 61, 0, 6]	Polysynth 2 KA 	
+[p2, 62, 0, 6]	Aeronautics KA 	
+[p2, 63, 0, 6]	Mellow Pad KA 	
+[p2, 64, 0, 6]	Acid Bass KA 	
+[p2, 65, 0, 6]	Rhythm Steps KA 	
+[p2, 66, 0, 6]	LFO Pad KA 	
+[p2, 67, 0, 6]	Influx Pad KA 	
+[p2, 68, 0, 6]	Metal Pad KA 	
+[p2, 69, 0, 6]	Funk Synth KA 	
+[p2, 70, 0, 6]	Alien Pad 1 KA 	
+[p2, 71, 0, 6]	Alien Pad 2 KA 	
+[p2, 72, 0, 6]	Bell Pad KA 	
+[p2, 73, 0, 6]	Lift Up KA 	
+[p2, 74, 0, 6]	Myssa Drone KA 	
+[p2, 75, 0, 6]	Oxyda Pad KA 	
+[p2, 76, 0, 6]	Early Keys KA 	
+[p2, 77, 0, 6]	Wide Shut KA 	
+[p2, 78, 0, 6]	Chill Out KA 	
+[p2, 79, 0, 6]	Sigma Lead KA 	
+[p2, 80, 0, 6]	Telma ARP KA 	
+[p2, 81, 0, 6]	Multi Synth KA 	
+[p2, 82, 0, 6]	Portation KA 	
+[p2, 83, 0, 6]	Syncussion KA 	
+[p2, 84, 0, 6]	Westlead Pad KA 	
+[p2, 85, 0, 6]	Moving Mine KA 	
+[p2, 86, 0, 6]	New Age Pad KA 	
+[p2, 87, 0, 6]	Free Jazz KA 	
+[p2, 88, 0, 6]	Ominous MorphKA 	
+[p2, 89, 0, 6]	Wavetrance KA 	
+[p2, 90, 0, 6]	Key Off KA 	
+[p2, 91, 0, 6]	Organilog KA 	
+[p2, 92, 0, 6]	VCF Sweep KA 	
+[p2, 93, 0, 6]	FM Bells KA 	
+[p2, 94, 0, 6]	Powerful KA 	
+[p2, 95, 0, 6]	Angel Pad KA 	
+[p2, 96, 0, 6]	Fairy Steps KA 	
+[p2, 97, 0, 6]	FRANKnSTEIN KA 	
+[p2, 98, 0, 6]	Experience KA 	
+[p2, 99, 0, 6]	Nightmare KA 	
+[p2, 100, 0, 6]	VCF Zapp KA 	
+[p2, 101, 0, 6]	Epic Pad KA 	
+[p2, 102, 0, 6]	Mine Bells KA 	
+[p2, 103, 0, 6]	Tension SynthKA 	
+[p2, 104, 0, 6]	Got Rezzz KA 	
+[p2, 105, 0, 6]	Tomeso KA 	
+[p2, 106, 0, 6]	Evolving KA 	
+[p2, 107, 0, 6]	Interstellar KA 	
+[p2, 108, 0, 6]	Cinematic KA 	
+[p2, 109, 0, 6]	Klangzauber! KA 	
+[p2, 110, 0, 6]	Cyber Pad KA 	
+[p2, 111, 0, 6]	Main Synth KA 	
+[p2, 112, 0, 6]	Harpsichord KA 	
+[p2, 113, 0, 6]	Smooth Pad KA 	
+[p2, 114, 0, 6]	Bowed Wheel KA 	
+[p2, 115, 0, 6]	Harsh Bass KA 	
+[p2, 116, 0, 6]	Bubbles KA 	
+[p2, 117, 0, 6]	Relax & DreamKA 	
+[p2, 118, 0, 6]	Older Days KA 	
+[p2, 119, 0, 6]	Experimental KA 	
+[p2, 120, 0, 6]	Prismatic KA 	
+[p2, 121, 0, 6]	Massive KA 	
+[p2, 122, 0, 6]	War Games KA 	
+[p2, 123, 0, 6]	Bad Dreams KA 	
+[p2, 124, 0, 6]	LFO Planet KA 	
+[p2, 125, 0, 6]	Healing Pad KA 	
+[p2, 126, 0, 6]	Accordion KA 	
+[p2, 127, 0, 6]	Strings KA 	
+[g1] Bank H		
+[p2, 0, 0, 7]	Rich Rises DK 	
+[p2, 1, 0, 7]	Bass Punch DK 	
+[p2, 2, 0, 7]	Warm PadFX DK 	
+[p2, 3, 0, 7]	MouseChord DK 	
+[p2, 4, 0, 7]	FilterWhip DK 	
+[p2, 5, 0, 7]	Pure Space DK 	
+[p2, 6, 0, 7]	OctaveSwel DK 	
+[p2, 7, 0, 7]	Random Arp DK 	
+[p2, 8, 0, 7]	Boards VHS DK 	
+[p2, 9, 0, 7]	Noise Perc DK 	
+[p2, 10, 0, 7]	Ouzo Bass DK 	
+[p2, 11, 0, 7]	Square Lead DK 	
+[p2, 12, 0, 7]	Retro Swell DK 	
+[p2, 13, 0, 7]	Flutter Seq DK 	
+[p2, 14, 0, 7]	Acid Fiend DK 	
+[p2, 15, 0, 7]	Neuro Fun DK 	
+[p2, 16, 0, 7]	Velo Funk DK 	
+[p2, 17, 0, 7]	House Chord DK 	
+[p2, 18, 0, 7]	Guitar Dirt DK 	
+[p2, 19, 0, 7]	Talking Res DK 	
+[p2, 20, 0, 7]	Silly Riser DK 	
+[p2, 21, 0, 7]	Arp Pluck DK 	
+[p2, 22, 0, 7]	ChordCrunch DK 	
+[p2, 23, 0, 7]	Super Saws DK 	
+[p2, 24, 0, 7]	FM Wonk DK 	
+[p2, 25, 0, 7]	Wobble Bass DK 	
+[p2, 26, 0, 7]	Percussion DK 	
+[p2, 27, 0, 7]	Vintage Pad DK 	
+[p2, 28, 0, 7]	Mono Sync DK 	
+[p2, 29, 0, 7]	S&H ToneMod DK 	
+[p2, 30, 0, 7]	Pluk ModWet DK 	
+[p2, 31, 0, 7]	PWM Swell DK 	
+[p2, 32, 0, 7]	ShimmerSwel DK 	
+[p2, 33, 0, 7]	Noiz Hit FX DK 	
+[p2, 34, 0, 7]	Chord Arp DK 	
+[p2, 35, 0, 7]	FM F-Yeah DK 	
+[p2, 36, 0, 7]	Vibro Funk DK 	
+[p2, 37, 0, 7]	Filter FM DK 	
+[p2, 38, 0, 7]	Alien Love DK 	
+[p2, 39, 0, 7]	Dry Strings DK 	
+[p2, 40, 0, 7]	Keys DK 	
+[p2, 41, 0, 7]	Organ WanaB DK 	
+[p2, 42, 0, 7]	Teacake Arp DK 	
+[p2, 43, 0, 7]	Mario Love DK 	
+[p2, 44, 0, 7]	-2 Saw Sub DK 	
+[p2, 45, 0, 7]	Major 10 DK 	
+[p2, 46, 0, 7]	Pad Chopper DK 	
+[p2, 47, 0, 7]	Tone Shift DK 	
+[p2, 48, 0, 7]	Arcade 8ve DK 	
+[p2, 49, 0, 7]	Poly Ramps DK 	
+[p2, 50, 0, 7]	ModWheelArp DK 	
+[p2, 51, 0, 7]	Drifter DK 	
+[p2, 52, 0, 7]	Unison Wash DK 	
+[p2, 53, 0, 7]	Alien Lands DK 	
+[p2, 54, 0, 7]	Noise Punch DK 	
+[p2, 55, 0, 7]	Click Delay DK 	
+[p2, 56, 0, 7]	Vintage LFO DK 	
+[p2, 57, 0, 7]	Wonky Toy DK 	
+[p2, 58, 0, 7]	Soft Fifth DK 	
+[p2, 59, 0, 7]	Clicky Bass DK 	
+[p2, 60, 0, 7]	Fidget Arp DK 	
+[p2, 61, 0, 7]	Soft Swells DK 	
+[p2, 62, 0, 7]	Lost Verb DK 	
+[p2, 63, 0, 7]	Env3 Overto DK 	
+[p2, 64, 0, 7]	Slasher DK 	
+[p2, 65, 0, 7]	Movie Pad DK 	
+[p2, 66, 0, 7]	S&H Filter DK 	
+[p2, 67, 0, 7]	Falling LFO DK 	
+[p2, 68, 0, 7]	FX Wobbles DK 	
+[p2, 69, 0, 7]	Bass Arp DK 	
+[p2, 70, 0, 7]	DCO Harmony DK 	
+[p2, 71, 0, 7]	Broken Atom DK 	
+[p2, 72, 0, 7]	Verb Excite DK 	
+[p2, 73, 0, 7]	3 Way Mod DK 	
+[p2, 74, 0, 7]	FadeIn RNDM DK 	
+[p2, 75, 0, 7]	Breaking FM DK 	
+[p2, 76, 0, 7]	Warped Perc DK 	
+[p2, 77, 0, 7]	Rez BandPas DK 	
+[p2, 78, 0, 7]	Saw Shimmer DK 	
+[p2, 79, 0, 7]	Soft Mono DK 	
+[p2, 80, 0, 7]	Square Fun DK 	
+[p2, 81, 0, 7]	Clean Keys DK 	
+[p2, 82, 0, 7]	4Pole Pluck DK 	
+[p2, 83, 0, 7]	Synth Waves DK 	
+[p2, 84, 0, 7]	SyncToneMod DK 	
+[p2, 85, 0, 7]	Warm Arp DK 	
+[p2, 86, 0, 7]	Bass Stomp DK 	
+[p2, 87, 0, 7]	Filter Rise DK 	
+[p2, 88, 0, 7]	RND Swinger DK 	
+[p2, 89, 0, 7]	ModWheel FRZDK 	
+[p2, 90, 0, 7]	Mono Filth DK 	
+[p2, 91, 0, 7]	Reso Rise DK 	
+[p2, 92, 0, 7]	Simple Uni DK 	
+[p2, 93, 0, 7]	Verb Trick DK 	
+[p2, 94, 0, 7]	Bass Swells DK 	
+[p2, 95, 0, 7]	Over Reso DK 	
+[p2, 96, 0, 7]	BigChord minDK 	
+[p2, 97, 0, 7]	Mellow DK 	
+[p2, 98, 0, 7]	Bulbous Arp DK 	
+[p2, 99, 0, 7]	KeyPressRND DK 	
+[p2, 100, 0, 7]	Space Cave DK 	
+[p2, 101, 0, 7]	NonStopLoop DK 	
+[p2, 102, 0, 7]	Fadin Dison DK 	
+[p2, 103, 0, 7]	Ice Drift DK 	
+[p2, 104, 0, 7]	LFO SequenceDK 	
+[p2, 105, 0, 7]	Six Oh OnesiDK 	
+[p2, 106, 0, 7]	Clap DK 	
+[p2, 107, 0, 7]	Floating ArpDK 	
+[p2, 108, 0, 7]	Odd EGs DK 	
+[p2, 109, 0, 7]	ModW FX RiseDK 	
+[p2, 110, 0, 7]	Sync Mod PadDK 	
+[p2, 111, 0, 7]	OctaveBubbleDK 	
+[p2, 112, 0, 7]	Smooth NoiseDK 	
+[p2, 113, 0, 7]	Swellverb DK 	
+[p2, 114, 0, 7]	Bass Throb DK 	
+[p2, 115, 0, 7]	Space Lead DK 	
+[p2, 116, 0, 7]	VintageDriftDK 	
+[p2, 117, 0, 7]	NuclearNoiseDK 	
+[p2, 118, 0, 7]	Mono Cloud DK 	
+[p2, 119, 0, 7]	Serene Keys DK 	
+[p2, 120, 0, 7]	Thin2FullArpDK 	
+[p2, 121, 0, 7]	Mega Mod DK 	
+[p2, 122, 0, 7]	ModulatedModDK 	
+[p2, 123, 0, 7]	Ramp Mods DK 	
+[p2, 124, 0, 7]	Deep Space DK 	
+[p2, 125, 0, 7]	Quirk Arp DK 	
+[p2, 126, 0, 7]	Play Wheels DK 	
+[p2, 127, 0, 7]	Theme Pad DK 	
+[end]
